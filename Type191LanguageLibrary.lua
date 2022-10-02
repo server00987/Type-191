@@ -42,7 +42,9 @@ local T191LangLib = {
 		["T191_LangLib_Magazines.Name_3"] = "QBZ-95 40 Round Mags",
 		-- Muzzle Devices
 		["T191_LangLib_Muzzle_Devices.Category"] = "Muzzle Devices",
-		["T191_LangLib_Muzzle_Devices.Name"] = "Big Bore Suppressor",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "Big Bore Suppressor",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS Suppressor",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 Suppressor",
 		-- Lasers
 		["T191_LangLib_Laser.Category"] = "Lasers",
 		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - Red",
@@ -50,6 +52,8 @@ local T191LangLib = {
 		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - Red",
 		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - Green",
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - Red",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - Green",
 	    -- Charms
 		["T191_LangLib_Charm.Category"] = "Charms",
 		["T191_LangLib_Charm.Terraria"] = "Terraria Charms",
@@ -60,9 +64,11 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "Plantera - Second Form",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "Skeletron Prime",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "Skeletron Prime - Broken",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Eye of Cthulhu - First Form",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Eye of Cthulhu - Second Form",
 		-- Gadgets
 		["T191_LangLib_Gadgets.Category"] = "Gadgets",
-		["T191_LangLib_Gadgets.Name"] = "Heartbeat Sensor",
+		["T191_LangLib_Gadgets.Name"] = "MW2 Heartbeat Sensor",
 		-- Sights
 		["T191_LangLib_Sight.Category"] = "Sights",
 		-- Setting Menu
@@ -75,6 +81,12 @@ local T191LangLib = {
 		-- Fire Mode
 		["T191_LangLib_FireMode.Full_Auto"] = "Full Auto",
 		["T191_LangLib_FireMode.Semi_Auto"] = "Semi Auto",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "Perks",
+		["T191_LangLib_Perk.SOH"] = "Sleight of Hand",
+		["T191_LangLib_Perk.FMJ"] = "FMJ",
+		["T191_LangLib_Perk.Ricochet"] = "Ricochet",
+		["T191_LangLib_Perk.Flinch"] = "Soft-point Rounds",
 	},
 	["zh-CN"] = { -- Simplified Chinese
 		-- Skins
@@ -107,7 +119,9 @@ local T191LangLib = {
 		["T191_LangLib_Magazines.Name_3"] = "QBZ-95扩容弹匣(40发)",
 		-- Muzzle Devices
 		["T191_LangLib_Muzzle_Devices.Category"] = "枪口",
-		["T191_LangLib_Muzzle_Devices.Name"] = "大口径消音器",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "大口径消音器",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS 消音器",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 消音器",
 		-- Lasers
 		["T191_LangLib_Laser.Category"] = "镭射器",
 		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - 红",
@@ -115,6 +129,8 @@ local T191LangLib = {
 		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - 红",
 		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - 绿",
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - 红",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - 绿",
 	    -- Charms
 	    ["T191_LangLib_Charm.Category"] = "挂饰",
 		["T191_LangLib_Charm.Terraria"] = "泰拉瑞亚挂饰",
@@ -125,6 +141,8 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "世纪之花 - 第二形态",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "机械骷髅王",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "机械骷髅王 - 破损",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "克苏鲁之眼 - 第一形态",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "克苏鲁之眼 - 第二形态",
 		-- Gadgets
 		["T191_LangLib_Gadgets.Category"] = "特殊附件",
 		["T191_LangLib_Gadgets.Name"] = "心跳传感器",
@@ -140,6 +158,12 @@ local T191LangLib = {
 		-- Fire Mode
 		["T191_LangLib_FireMode.Full_Auto"] = "全自动",
 		["T191_LangLib_FireMode.Semi_Auto"] = "半自动",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "特长",
+		["T191_LangLib_Perk.SOH"] = "快手",
+		["T191_LangLib_Perk.FMJ"] = "全金属被甲弹",
+		["T191_LangLib_Perk.Ricochet"] = "跳弹",
+		["T191_LangLib_Perk.Flinch"] = "软尖弹",
 	},
 	["zh-TW"] = { -- Traditional Chinese
 		-- Skins
@@ -166,20 +190,24 @@ local T191LangLib = {
 		["T191_LangLib_Stock.Name_2"] = "戰術槍托",
 		["T191_LangLib_Stock.Name_3"] = "閉合式戰術托",
 		-- Magazines
-		["T191_LangLib_Magazines.Category"] = "彈匣",
+		["T191_LangLib_Magazines.Category"] = "彈藥",
 		["T191_LangLib_Magazines.Name_1"] = "擴充弹匣(45發)",
 		["T191_LangLib_Magazines.Name_2"] = "QBZ-95弹匣",
 		["T191_LangLib_Magazines.Name_3"] = "QBZ-95擴充弹匣(40發)",
 		-- Muzzle Devices
 		["T191_LangLib_Muzzle_Devices.Category"] = "槍口",
-		["T191_LangLib_Muzzle_Devices.Name"] = "大口徑抑制器",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "大口徑抑制器",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS 抑制器",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 抑制器",
 		-- Lasers
-		["T191_LangLib_Laser.Category"] = "雷射指示器",
+		["T191_LangLib_Laser.Category"] = "雷射",
 		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - 紅",
 		["T191_LangLib_Laser.Name_2"] = "LS-2L1 - 綠",
 		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - 紅",
 		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - 綠",
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - 紅",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - 綠",
 	    -- Charms
 	    ["T191_LangLib_Charm.Category"] = "吊飾",
 		["T191_LangLib_Charm.Terraria"] = "泰拉瑞亞吊飾",
@@ -190,6 +218,8 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "世紀之花 - 第二形態",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "機械骷髏王",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "機械骷髏王 - 破損",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "克蘇魯之眼 - 第一形態",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "克蘇魯之眼 - 第二形態",
 		-- Gadgets
 		["T191_LangLib_Gadgets.Category"] = "特殊配件",
 		["T191_LangLib_Gadgets.Name"] = "心跳感應器",
@@ -205,6 +235,12 @@ local T191LangLib = {
 		-- Fire Mode
 		["T191_LangLib_FireMode.Full_Auto"] = "全自動",
 		["T191_LangLib_FireMode.Semi_Auto"] = "半自動",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "特長",
+		["T191_LangLib_Perk.SOH"] = "快手",
+		["T191_LangLib_Perk.FMJ"] = "全金屬被甲彈",
+		["T191_LangLib_Perk.Ricochet"] = "跳彈",
+		["T191_LangLib_Perk.Flinch"] = "軟尖彈",
 	},
 	["ru"] = { -- Russian
 		-- Skins
@@ -227,7 +263,7 @@ local T191LangLib = {
 		["T191_LangLib_Pistol_Grip.Name"] = "Тактическая пистолетная рукоять",
 		-- Stocks
 		["T191_LangLib_Stock.Category"] = "Приклад",
-		["T191_LangLib_Stock.Name_1"] = "Закрытие приклад",
+		["T191_LangLib_Stock.Name_1"] = "Закрытый приклад",
 		["T191_LangLib_Stock.Name_2"] = "Тактический приклад",
 		["T191_LangLib_Stock.Name_3"] = "Тактический закрытый приклад",
 		-- Magazines
@@ -237,14 +273,18 @@ local T191LangLib = {
 		["T191_LangLib_Magazines.Name_3"] = "45 патронный магазин QBZ-95",
 		-- Muzzle Devices
 		["T191_LangLib_Muzzle_Devices.Category"] = "Дуло",
-		["T191_LangLib_Muzzle_Devices.Name"] = "Глушитель для большого ствола",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "Глушитель для большого ствола",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "Глушитель CRS",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "Глушитель K556",
 		-- Lasers
 		["T191_LangLib_Laser.Category"] = "Лазер",
 		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - красный",
 		["T191_LangLib_Laser.Name_2"] = "LS-2L1 - зелёный",
-		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - красный",
-		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - зелёный",
+		["T191_LangLib_Laser.Name_3"] = "LS-2L1 вер. 2 - красный",
+		["T191_LangLib_Laser.Name_4"] = "LS-2L1 вер. 2 - зелёный",
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - красный",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - зелёный",
 	    -- Charms
 		["T191_LangLib_Charm.Category"] = "Брелок",
 		["T191_LangLib_Charm.Terraria"] = "Брелок из Terraria",
@@ -255,6 +295,10 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "Плантера - вторая форма",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "Скелетрон Прайм",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "Скелетрон Прайм - сломанный",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Eye of Cthulhu - First Form",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Eye of Cthulhu - Second Form",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Глаз Ктулху - первая форма",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Глаз Ктулху - вторая форма",
 		-- Gadgets
 		["T191_LangLib_Gadgets.Category"] = "Приспособление",
 		["T191_LangLib_Gadgets.Name"] = "Датчик сердцебиения",
@@ -270,6 +314,12 @@ local T191LangLib = {
 		-- Fire Mode
 		["T191_LangLib_FireMode.Full_Auto"] = "Автоматич.",
 		["T191_LangLib_FireMode.Semi_Auto"] = "Полуавтомат.",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "Перк",
+		["T191_LangLib_Perk.SOH"] = "Ловкость рук",
+		["T191_LangLib_Perk.FMJ"] = "Оболочечная пуля",
+		["T191_LangLib_Perk.Ricochet"] = "Рикошет",
+		["T191_LangLib_Perk.Flinch"] = "Полуоболочная пуля",
 	},
 	["sv-SE"] = { -- Swedish
 		-- Skins
@@ -302,7 +352,9 @@ local T191LangLib = {
 		["T191_LangLib_Magazines.Name_3"] = "40-Skott QBZ-95 Mag.",
 		-- Muzzle Devices
 		["T191_LangLib_Muzzle_Devices.Category"] = "Mynningsenheter",
-		["T191_LangLib_Muzzle_Devices.Name"] = "Big Bore-Ljuddämpare",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "Big Bore-Ljuddämpare",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS Ljuddämpare",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 Ljuddämpare",
 		-- Lasers
 		["T191_LangLib_Laser.Category"] = "Laser",
 		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - Röd",
@@ -310,6 +362,8 @@ local T191LangLib = {
 		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - Röd",
 		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - Grön",
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - Röd",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - Grön",
 	    -- Charms
 		["T191_LangLib_Charm.Category"] = "Smycken",
 		["T191_LangLib_Charm.Terraria"] = "Terraria Smycken",
@@ -320,6 +374,8 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "Plantera - Andra Formen",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "Skeletron Prime",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "Skeletron Prime - Sönder",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Cthulus Öga - Första Form",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Cthulus Öga - Andra Form",
 		-- Gadgets
 		["T191_LangLib_Gadgets.Category"] = "Tillbehör",
 		["T191_LangLib_Gadgets.Name"] = "Hjärtslagssensor",
@@ -335,6 +391,12 @@ local T191LangLib = {
 		-- Fire Mode
 		["T191_LangLib_FireMode.Full_Auto"] = "Helautomat",
 		["T191_LangLib_FireMode.Semi_Auto"] = "Halvautomat",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "Färdigheter",
+		["T191_LangLib_Perk.SOH"] = "Fingerfärdighet",
+		["T191_LangLib_Perk.FMJ"] = "Helmantlad Ammo",
+		["T191_LangLib_Perk.Ricochet"] = "Rikoschett",
+		["T191_LangLib_Perk.Flinch"] = "Halvmantlad Ammo",
 	},
 }
 
