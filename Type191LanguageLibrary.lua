@@ -295,8 +295,6 @@ local T191LangLib = {
 		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "Плантера - вторая форма",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "Скелетрон Прайм",
 		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "Скелетрон Прайм - сломанный",
-		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Eye of Cthulhu - First Form",
-		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Eye of Cthulhu - Second Form",
 		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Глаз Ктулху - первая форма",
 		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Глаз Ктулху - вторая форма",
 		-- Gadgets
