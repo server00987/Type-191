@@ -397,6 +397,84 @@ local T191LangLib = {
 		["T191_LangLib_Perk.Flinch"] = "Halvmantlad Ammo",
 	},
 }
+	["ko"] = { -- Korean
+		-- Skins
+		["T191_LangLib_Skin.Category"] = "스킨",
+		["T191_LangLib_Skin.Name_1"] = "Asiimov",
+		["T191_LangLib_Skin.Name_2"] = "Unicorn",
+		["T191_LangLib_Skin.Name_3"] = "Carbon Fiber Decals",
+		-- Barrels
+		["T191_LangLib_Barrel.Category"] = "총열",
+		["T191_LangLib_Barrel.Nmae_1"] = "QBU-191 총열",
+		["T191_LangLib_Barrel.Nmae_2"] = "QBU-191 단축 총열",
+		["T191_LangLib_Barrel.Nmae_3"] = "QBZ-192 총열",
+		-- Handguards
+		["T191_LangLib_Handguard.Category"] = "핸드가드",
+		["T191_LangLib_Handguard.Name_1"] = "QBU-191 핸드가드",
+		["T191_LangLib_Handguard.Name_2"] = "전술형 핸드가드",
+		["T191_LangLib_Handguard.Name_3"] = "단축형 전술 핸드가드",
+		-- Pistol Grip
+		["T191_LangLib_Pistol_Grip.Category"] = "권총 손잡이",
+		["T191_LangLib_Pistol_Grip.Name"] = "전술형 권총 손잡이",
+		-- Stocks
+		["T191_LangLib_Stock.Category"] = "개머리판",
+		["T191_LangLib_Stock.Name_1"] = "개머리 수납",
+		["T191_LangLib_Stock.Name_2"] = "전술형 개머리판",
+		["T191_LangLib_Stock.Name_3"] = "전술형 개머리 수납",
+		-- Magazines
+		["T191_LangLib_Magazines.Category"] = "탄창",
+		["T191_LangLib_Magazines.Name_1"] = "45발 탄창",
+		["T191_LangLib_Magazines.Name_2"] = "QBZ-95 탄창",
+		["T191_LangLib_Magazines.Name_3"] = "QBZ-95 40발 탄창",
+		-- Muzzle Devices
+		["T191_LangLib_Muzzle_Devices.Category"] = "총구 부착물",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "빅 보어 소음기",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS 소음기",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 소음기",
+		-- Lasers
+		["T191_LangLib_Laser.Category"] = "레이저",
+		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - 적색",
+		["T191_LangLib_Laser.Name_2"] = "LS-2L1 - 녹색",
+		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - 적색",
+		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - 녹색",
+		["T191_LangLib_Laser.Name_5"] = "미니 스카웃 라이트® 프로",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - 적색",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - 녹색",
+	    -- Charms
+		["T191_LangLib_Charm.Category"] = "부적",
+		["T191_LangLib_Charm.Terraria"] = "테라리아 부적",
+		["T191_LangLib_Charm.Terraria_Tip_1"] = "음악이 중지됐습니다.",
+		["T191_LangLib_Charm.Terraria_Tip_2"] = "테라리아 OST가 재생됩니다.",
+		["T191_LangLib_Charm.Terraria_Tip_3"] = "채팅창에 !stcst를 입력해 음악을 중지할 수 있습니다.",
+		["T191_LangLib_Charm.Terraria_Plantera_Name_1"] = "플랜테라 - 페이즈 1",
+		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "플랜테라 - 페이즈 2",
+		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "스켈레트론 프라임",
+		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "부서진 스켈레트론 프라임",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "크툴루의 눈 - 페이즈 1",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "크툴루의 눈 - 페이즈 2",
+		-- Gadgets
+		["T191_LangLib_Gadgets.Category"] = "가젯",
+		["T191_LangLib_Gadgets.Name"] = "MW2 심장 박동 감지기",
+		-- Sights
+		["T191_LangLib_Sight.Category"] = "조준경",
+		-- Setting Menu
+		["T191_LangLib_SettingMenu.Title_1"] = "알림",
+		["T191_LangLib_SettingMenu.ControlHelp_1"] = "채팅창의 알림을 활성화합니다.",
+		["T191_LangLib_SettingMenu.Title_2"] = "부적 음악",
+		["T191_LangLib_SettingMenu.ControlHelp_2"] = "부적의 음악을 활성화합니다.",
+		["T191_LangLib_SettingMenu.Title_3"] = "무작위 스킨",
+		["T191_LangLib_SettingMenu.ControlHelp_3"] = "총기 랜덤 스킨을 활성화합니다.",
+		-- Fire Mode
+		["T191_LangLib_FireMode.Full_Auto"] = "완전 자동",
+		["T191_LangLib_FireMode.Semi_Auto"] = "단발",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "총기 특전",
+		["T191_LangLib_Perk.SOH"] = "빠른 손재주",
+		["T191_LangLib_Perk.FMJ"] = "전피갑탄",
+		["T191_LangLib_Perk.Ricochet"] = "도탄",
+		["T191_LangLib_Perk.Flinch"] = "파쇄탄 - 저지",
+	},
+}
 
 local userlang = GetConVar("gmod_language"):GetString() local lang = "en"
 if userlang != nil and istable(T191LangLib[userlang]) then lang = GetConVar("gmod_language"):GetString() end
