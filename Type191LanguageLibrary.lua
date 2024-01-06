@@ -54,7 +54,7 @@ local T191LangLib = {
 		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
 		["T191_LangLib_Laser.Name_6"] = "LS-321 - Red",
 		["T191_LangLib_Laser.Name_7"] = "LS-321 - Green",
-	    -- Charms
+	    	-- Charms
 		["T191_LangLib_Charm.Category"] = "Charms",
 		["T191_LangLib_Charm.Terraria"] = "Terraria Charms",
 		["T191_LangLib_Charm.Terraria_Tip_1"] = "Music Has Stopped.",
@@ -87,6 +87,83 @@ local T191LangLib = {
 		["T191_LangLib_Perk.FMJ"] = "FMJ",
 		["T191_LangLib_Perk.Ricochet"] = "Ricochet",
 		["T191_LangLib_Perk.Flinch"] = "Soft-point Rounds",
+	},
+	["tr"] = { -- Turkish
+		-- Skins
+		["T191_LangLib_Skin.Category"] = "Kaplamalar",
+		["T191_LangLib_Skin.Name_1"] = "Asiimov",
+		["T191_LangLib_Skin.Name_2"] = "Tekboynuz",
+		["T191_LangLib_Skin.Name_3"] = "Karbon Fiber Çıkartmaları",
+		-- Barrels
+		["T191_LangLib_Barrel.Category"] = "Namlular",
+		["T191_LangLib_Barrel.Nmae_1"] = "QBU-191 Namlusu",
+		["T191_LangLib_Barrel.Nmae_2"] = "Kısa QBU-191 Namlusu",
+		["T191_LangLib_Barrel.Nmae_3"] = "QBZ -192 Namlusu",
+		-- Handguards
+		["T191_LangLib_Handguard.Category"] = "Dipçikler",
+		["T191_LangLib_Handguard.Name_1"] = "QBU-191 Dipçiği",
+		[" T191_LangLib_Handguard.Name_2 "] = "Taktiksel Dipçik",
+		["T191_LangLib_Handguard.Name_3"] = "Kısa Taktiksel Dipçik",
+		-- Pistol Grip
+		["T191_LangLib_Pistol_Grip.Category"] = "Tabanca Kabzası",
+		["T191_LangLib_Pistol_Grip.Name"] = "Taktiksel Tabanca Kabzası",
+		-- Stocks
+		["T191_LangLib_Stock.Category"] = "Kundaklar",
+		["T191_LangLib_Stock.Name_1"] = "Kundak Koruması",
+		["T191_LangLib_Stock.Name_2"] = "Taktiksel Kundak",
+		["T191_LangLib_Stock.Name_3"] = "Taktiksel Kundak Koruması",
+		-- Magazines
+		["T191_LangLib_Magazines.Category"] = "Şarjörler",
+		["T191_LangLib_Magazines.Name_1"] = "45'lik Şarjör",
+		["T191_LangLib_Magazines.Name_2"] = "QBZ-95 Şarjörü",
+		["T191_LangLib_Magazines.Name_3"] = "QBZ-95 40'lık Şarjör",
+		--- Muzzle Devices
+		["T191_LangLib_Muzzle_Devices.Category"] = "Ağızlıklar",
+		["T191_LangLib_Muzzle_Devices.Name_1"] = "Büyük Çaplı Susturucu",
+		["T191_LangLib_Muzzle_Devices.Name_2"] = "CRS Susturucu",
+		["T191_LangLib_Muzzle_Devices.Name_3"] = "K556 Susturucu",
+		-- Lasers
+		["T191_LangLib_Laser.Category"] = "Lazerler",
+		["T191_LangLib_Laser.Name_1"] = "LS-2L1 - Kırmızı",
+		["T191_LangLib_Laser.Name_2"] = "LS-2L1 - Yeşil",
+		["T191_LangLib_Laser.Name_3"] = "LS-2L1 v2 - Kırmızı",
+		["T191_LangLib_Laser.Name_4"] = "LS-2L1 v2 - Yeşil",
+		["T191_LangLib_Laser.Name_5"] = "MINI SCOUT LIGHT® PRO",
+		["T191_LangLib_Laser.Name_6"] = "LS-321 - Kırmızı",
+		["T191_LangLib_Laser.Name_7"] = "LS-321 - Yeşil",
+	    	-- Charms
+		["T191_LangLib_Charm.Category"] = "Tılsımlar",
+		["T191_LangLib_Charm.Terraria"] = "Terraria Tılsımları",
+		["T191_LangLib_Charm.Terraria_Tip_1"] = "Müzik Durdu.",
+		["T191_LangLib_Charm.Terraria_Tip_2"] = "Şu anda Terraria müziği dinliyorsun.",
+		["T191_LangLib_Charm.Terraria_Tip_3"] = "Sohbette !stcst yazarak müziği durdurabilirsin..",
+		["T191_LangLib_Charm.Terraria_Plantera_Name_1"] = "Plantera - İlk Form",
+		["T191_LangLib_Charm.Terraria_Plantera_Name_2"] = "Plantera - İkinci Form",
+		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_1"] = "Skeletron Prime",
+		["T191_LangLib_Charm.Terraria_Skeletron_Prime_Name_2"] = "Skeletron Prime - Kırık",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_1"] = "Cthulhu'nun Gözü - İlk Form",
+		["T191_LangLib_Charm.Terraria_Eye_of_Cthulhu_Name_2"] = "Cthulhu'nun Gözü - İkinci Form",
+		-- Gadgets
+		["T191_LangLib_Gadgets.Category"] = "Cihazlar",
+		["T191_LangLib_Gadgets.Name"] = "MW2 Kalp Atışı Sensörü",
+		-- Sights
+		["T191_LangLib_Sight.Category"] = "Nişangahlar",
+		-- Setting Menu
+		["T191_LangLib_SettingMenu.Title_1"] = "Bildirim",
+		["T191_LangLib_SettingMenu.ControlHelp_1"] = "Sohbet kutusunun metin bildirimini etkinleştir.",
+		["T191_LangLib_SettingMenu.Title_2"] = "Tılsım Müziği",
+		["T191_LangLib_SettingMenu.ControlHelp_2"] = "Tılsımın müziğini etkinleştir.",
+		["T191_LangLib_SettingMenu.Title_3"] = "Rastgele Kaplama",
+		["T191_LangLib_SettingMenu.ControlHelp_3"] = "Silahın rastgele kaplamasını etkinleştir.",
+		-- Fire Mode
+		["T191_LangLib_FireMode.Full_Auto"] = "Tam Otomatik",
+		["T191_LangLib_FireMode.Semi_Auto"] = "Yarı Otomatik",
+		-- Perks
+		["T191_LangLib_Perk.Category"] = "Ayrıcalıklar",
+		["T191_LangLib_Perk.SOH"] = "El Çabukluğu",
+		["T191_LangLib_Perk.FMJ"] = "FMJ",
+		["T191_LangLib_Perk.Ricochet"] = "Sekme",
+		[" T191_LangLib_Perk.Flinch "] = "Yumuşak Burunlu Mermi",
 	},
 	["zh-CN"] = { -- Simplified Chinese
 		-- Skins
